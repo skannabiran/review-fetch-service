@@ -1,0 +1,15 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: digital-service
+
+app:
+  aws-dynamodb-accessKey: key
+  aws-dynamodb-secretKey: secretKey
+  aws-dynamodb-region: us-east-1
+  itunes-review-api: http://localhost:9091/ae/rss/customerreviews/page={page_num}/id={app_id}/sortby=mostrecent/json
+  android-token-api: http://localhost:9091/o/oauth2/token
+  android-review-api: http://localhost:9091/androidpublisher/v3/applications/{package_name}/reviews?access_token={access_token}&maxResults=100&translationLanguage=en
+
+

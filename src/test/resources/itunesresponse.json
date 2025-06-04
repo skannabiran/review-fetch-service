@@ -1,0 +1,2568 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/uk/itunes/"
+            }
+        },
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1773495462"
+                    },
+                    "name": {
+                        "label": "Kellen@12"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-12T03:03:04-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.22"
+                },
+                "id": {
+                    "label": "12533682956"
+                },
+                "title": {
+                    "label": "Mobile number update"
+                },
+                "content": {
+                    "label": "Thank you finally my issue was resolved",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id983767895"
+                    },
+                    "name": {
+                        "label": "habeebrt"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-12T01:23:41-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "2.2.22"
+                },
+                "id": {
+                    "label": "12533418238"
+                },
+                "title": {
+                    "label": "Not allow all transation dedection charge"
+                },
+                "content": {
+                    "label": "Less Rate",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1656240115"
+                    },
+                    "name": {
+                        "label": "Wart ai h"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-12T01:21:40-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.22"
+                },
+                "id": {
+                    "label": "12533412943"
+                },
+                "title": {
+                    "label": "Problem"
+                },
+                "content": {
+                    "label": "Dear Payit, I have sent money to my other account but the money was deducted from Payit but it did not reach my account. please solve my problem",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1580843478"
+                    },
+                    "name": {
+                        "label": "Lyn Reyes"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-12T00:31:48-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.22"
+                },
+                "id": {
+                    "label": "12533283712"
+                },
+                "title": {
+                    "label": "Easy to use"
+                },
+                "content": {
+                    "label": "Easy to transfer AED ro a PESO account hassle free.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id869740612"
+                    },
+                    "name": {
+                        "label": "Zahan123"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-08T13:39:41-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12519945793"
+                },
+                "title": {
+                    "label": "Vbad"
+                },
+                "content": {
+                    "label": "I am having login issues from last 2 months , no response!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1304361821"
+                    },
+                    "name": {
+                        "label": "Anupdev"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-08T01:47:41-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12517774803"
+                },
+                "title": {
+                    "label": "International transfer and very bad costmber service"
+                },
+                "content": {
+                    "label": "I wii try to contact costumer service cente more then 200 call more then 20 mail but no any response",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1679927885"
+                    },
+                    "name": {
+                        "label": "M safuvan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-07T04:25:49-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12514329098"
+                },
+                "title": {
+                    "label": "Customer care service"
+                },
+                "content": {
+                    "label": "Worst customer care I called 2 time I waited almost 20 minutes each call but I didn’t get single response till now if you don’t have staff to attend the call stop the customer care number",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id838371368"
+                    },
+                    "name": {
+                        "label": "thevictormahachi"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-05T23:15:45-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12509605138"
+                },
+                "title": {
+                    "label": "Kinda confused"
+                },
+                "content": {
+                    "label": "So got introduced to the app like late January through the referral program, so in the month of Feb I was grinding quite a bit and I had loads of referrals. March I didn’t do nothing but yesterday I was bored and had nothing to do so I tried to make some bank by getting a new referral but the process didn’t work like usual. Now I’m super confused did the referral program end or is this just a bug on my end?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "1"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1572158789"
+                    },
+                    "name": {
+                        "label": "Ibtissam Ben"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-03T23:04:47-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12501373135"
+                },
+                "title": {
+                    "label": "Very disappointed and upset"
+                },
+                "content": {
+                    "label": "I sent money through the app but the attempt failed and the amount was withdrawn from my wallet without the transaction being completed. I tried to contact them to retrieve the money so I could send it again. I was shocked that I would not be able to retrieve the amount until a week after the transfer date. I am very angry because the situation is urgent and I was in dire need to send the money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1540834610"
+                    },
+                    "name": {
+                        "label": "Ranjan0031"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-03T05:46:33-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12498416242"
+                },
+                "title": {
+                    "label": "Worst service"
+                },
+                "content": {
+                    "label": "Worst service in the world don’t use it for transfer money still my money is delayed to transfer. I just send it 3 days before still it’s not credited in the account.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id487496432"
+                    },
+                    "name": {
+                        "label": "3bdlkhalid"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-01T14:11:55-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12492112040"
+                },
+                "title": {
+                    "label": "Absolute joke!"
+                },
+                "content": {
+                    "label": "A week ago,I transferred an amount of 5000 dirhams to my other account using the Payit app and got a message telling me that the transaction was failed, I called them and explained to them my problem and they informed me that they are currently working to solve this issue on my account, a few days later I sent them an email as well and no one is responding back to me, even after sending 3 reminders to them, unfortunately I have no choice but to go to one of their branch’s and fight them about my missing money",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id495506473"
+                    },
+                    "name": {
+                        "label": "Afifa28"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-04-01T00:34:25-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12489637146"
+                },
+                "title": {
+                    "label": "app always fails"
+                },
+                "content": {
+                    "label": "i hate this app so much i will not be using it again. The app is always failing and lags. I was transferring an amount to my own bank account and it failed. Its been 5 days and customer service is not responding and the money has not been sent.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1698445625"
+                    },
+                    "name": {
+                        "label": "AnneLovah"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-29T05:35:49-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12478349878"
+                },
+                "title": {
+                    "label": "Hard to open"
+                },
+                "content": {
+                    "label": "Why is it so hard to login? Seems like theres bug all the time.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1404472254"
+                    },
+                    "name": {
+                        "label": "MDGOHAR"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-28T03:04:25-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12473830873"
+                },
+                "title": {
+                    "label": "Error problem"
+                },
+                "content": {
+                    "label": "I before sending money 8/3/25 now 28/3/25 It has been more than 20 days, my money has been held, please contact me there is no reply.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1757789087"
+                    },
+                    "name": {
+                        "label": "Muhammad husnan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-27T05:14:00-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12470324037"
+                },
+                "title": {
+                    "label": "I transferred money from my friend's payit account But Money has been deducted from my account."
+                },
+                "content": {
+                    "label": "I transferred money from my friend's payit account But Money has been deducted from my account. And the money hasn't been transferred to my friend's account yet.please solve my problem",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1717934622"
+                    },
+                    "name": {
+                        "label": "Anil sojan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-17T06:54:22-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.20"
+                },
+                "id": {
+                    "label": "12431340015"
+                },
+                "title": {
+                    "label": "Bad service"
+                },
+                "content": {
+                    "label": "Im not able to transfer money and i have contacted customer service it was very pathetic and my issue is not resolved I already recharged 20 aed only for calling customer service and no use its very disappointing",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1764878161"
+                    },
+                    "name": {
+                        "label": "Sapkota1998"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-12T07:45:44-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.19"
+                },
+                "id": {
+                    "label": "12412018228"
+                },
+                "title": {
+                    "label": "Customer care do not pickups phone"
+                },
+                "content": {
+                    "label": "I have requested for the physical card, but till now it’s more than one week no update, on top of that my digital card has been deactivated so now I don’t have access to my cards plus when I try to contact customer care is been waiting, waiting waiting and no one is picking up.\nPayit team if you’re listening, please do the needful",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id544701032"
+                    },
+                    "name": {
+                        "label": "Abbu Hussain"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-12T03:10:47-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.19"
+                },
+                "id": {
+                    "label": "12411198582"
+                },
+                "title": {
+                    "label": "They don’t follow up"
+                },
+                "content": {
+                    "label": "Had a horrible experience with one of my transaction to India, had to go through alot of follow ups and then they ask for more details via email, it was supposed to be transferred in 4 hours but took more than 72 hours, will never ever use this service",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id804459434"
+                    },
+                    "name": {
+                        "label": "Bijoy koonan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-09T23:54:02-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12403356085"
+                },
+                "title": {
+                    "label": "Transfer limit"
+                },
+                "content": {
+                    "label": "Money will be on hold if u try to send on weekends and also error in processing with message transfer limit exceeded",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id445581105"
+                    },
+                    "name": {
+                        "label": "Balan 1985"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-07T03:11:54-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12391929471"
+                },
+                "title": {
+                    "label": "Easy and good remittance rate"
+                },
+                "content": {
+                    "label": "Easy and feasible app",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1617199371"
+                    },
+                    "name": {
+                        "label": "Kabalikahan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-05T20:21:49-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12387193135"
+                },
+                "title": {
+                    "label": "Money transfer tack more time"
+                },
+                "content": {
+                    "label": "Money transfer very later senting",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id701552395"
+                    },
+                    "name": {
+                        "label": "Janeisinthekichen"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-04T18:01:03-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12383051242"
+                },
+                "title": {
+                    "label": "No support"
+                },
+                "content": {
+                    "label": "App doesn’t let you login if you try after face recognition and mobile verification too. It asks to send an email. I’ve sent about 10 emails but no i e answers. I have money on the app but can’t open the app. I won’t recommend the app as I can’t access my own money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id727194380"
+                    },
+                    "name": {
+                        "label": "sgattini"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-04T02:20:38-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12380391949"
+                },
+                "title": {
+                    "label": "Terrible app. No support"
+                },
+                "content": {
+                    "label": "It doesn’t let me create my profile because it reads “multiple documents” for my EID even though its just one. I tried contacting support countless times with no answer and no solution. Terrible system",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1761781729"
+                    },
+                    "name": {
+                        "label": "Sady29"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-03T09:39:37-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12377974438"
+                },
+                "title": {
+                    "label": "."
+                },
+                "content": {
+                    "label": "Worst services from this app showing transfer in 4 hours I transferred to india it’s been 56 hours and still pending must update your services worst experience will never suggest it to any one.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1462093775"
+                    },
+                    "name": {
+                        "label": "Premufdg"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-01T07:26:35-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12369501408"
+                },
+                "title": {
+                    "label": "Good"
+                },
+                "content": {
+                    "label": "Good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1355986078"
+                    },
+                    "name": {
+                        "label": "Ashik Nizar"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-01T03:43:07-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12368700372"
+                },
+                "title": {
+                    "label": "Bad Experience"
+                },
+                "content": {
+                    "label": "This is a worst application this website does not have any option to change the card or delete the account No one even responds also the customer srevice is very bad",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1430317824"
+                    },
+                    "name": {
+                        "label": "Irshad_m"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-01T02:46:47-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12368536059"
+                },
+                "title": {
+                    "label": "Fraud"
+                },
+                "content": {
+                    "label": "My last transaction made on 2 week before, still not received.i talked 3 times  on the customer care.every time saying 3 to 4 working days.\nLast  customer care guys told 3-4 days and now it’s one week, still not credited to my account.and customer care guys are very rude,\n\nNow no response on customer care also,",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id194508082"
+                    },
+                    "name": {
+                        "label": "Shhehdhdhd"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-01T02:03:44-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12368416679"
+                },
+                "title": {
+                    "label": "Amazing"
+                },
+                "content": {
+                    "label": "Very good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1760874548"
+                    },
+                    "name": {
+                        "label": "RoshanRRR"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-03-01T00:23:01-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12368149709"
+                },
+                "title": {
+                    "label": "WORST APPLICATION & WORST SERVICE"
+                },
+                "content": {
+                    "label": "I have initiated an International transfer for an emergency, its being 19 hours still not processed by Payit.\n\nI have sent email several times to helpdesk and no response.\n\nAfter many calls, got connected to the customer service and they informed me it will take 3 days to get a response for the email 😐\n\nWhat is the purpose of using such online platforms.\n\nWaste of money and time!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1076598361"
+                    },
+                    "name": {
+                        "label": "mnkpmsk"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-28T07:20:47-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12365265422"
+                },
+                "title": {
+                    "label": "Slow"
+                },
+                "content": {
+                    "label": "Application vey slow",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1502789449"
+                    },
+                    "name": {
+                        "label": "Bshdhdksdb"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-28T06:31:32-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12365089003"
+                },
+                "title": {
+                    "label": "Barrowed money"
+                },
+                "content": {
+                    "label": "Very nice and useful in times of emergency money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1520566270"
+                    },
+                    "name": {
+                        "label": "AnMaeG"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-27T12:41:15-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12362314371"
+                },
+                "title": {
+                    "label": "NO CUSTOMER SERVICE AT ALL!!!!"
+                },
+                "content": {
+                    "label": "I KEEP ON CALLING AND EMAILING REGARDING MY CONCERN THAT A RELOAD DIDN’T REFLECT ON MY PAYIT WALLET EVEN WHEN THE AMOUNT HAS BEEN DEDUCTED ON MY ACCOUNT!!! 3DAYS OF WAITING FOR A REPLY, AND YET, I STILL AND ONLY RECEIVE AUTOMATED EMAIL!!!! BRING MY MONEY BACK AND I DONT KNOW HOW WE CAN EFFIN’ REACH YOU!!!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id869592916"
+                    },
+                    "name": {
+                        "label": "Jamsith Deen"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-24T10:46:03-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12350495299"
+                },
+                "title": {
+                    "label": "Money not received and no proper support."
+                },
+                "content": {
+                    "label": "I given my payit account to my one of the client. They transferred the money 10 days before but I’ve not received until now, for me this is the 1st time, I’m using other bank accounts but never happened like this before. Sometime there is delay time & not working hours will affect but not like this.\n\nTo my client i cannot torture him to check with his bank, their simple claim that the money deducted from his account and he made the complaint to his bank as well. But their stand this never happened for him with any other banks.\n\nPayit is the 1st time eating money.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1460655607"
+                    },
+                    "name": {
+                        "label": "Justice PH"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-21T20:28:12-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.18"
+                },
+                "id": {
+                    "label": "12339997243"
+                },
+                "title": {
+                    "label": "The best online remittance"
+                },
+                "content": {
+                    "label": "Very good",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1750816275"
+                    },
+                    "name": {
+                        "label": "Anandhan Thoppil"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-14T20:29:38-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.17"
+                },
+                "id": {
+                    "label": "12312338500"
+                },
+                "title": {
+                    "label": "Very poor Customer Service"
+                },
+                "content": {
+                    "label": "I have been trying to contact the customer service since November 2024 still no one have attended the call .",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id998792919"
+                    },
+                    "name": {
+                        "label": "seeman k"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-14T08:59:14-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.17"
+                },
+                "id": {
+                    "label": "12310492774"
+                },
+                "title": {
+                    "label": "Very good"
+                },
+                "content": {
+                    "label": "User friendly and safer",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1755586048"
+                    },
+                    "name": {
+                        "label": "allwinsaju27"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-14T06:47:02-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "2.2.17"
+                },
+                "id": {
+                    "label": "12310039681"
+                },
+                "title": {
+                    "label": "Transaction failed money not returned since 14 days"
+                },
+                "content": {
+                    "label": "I have send money on feb 1 due to technical error transfer failed but money not returned till now ,called for customer care several times,they said we have sent mail, money will come back within two working days, but so many working days are gone, nothing happened transaction reference number FTM25033XFZ946HW",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id953270031"
+                    },
+                    "name": {
+                        "label": "potetwa"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-13T03:57:47-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.16"
+                },
+                "id": {
+                    "label": "12305644430"
+                },
+                "title": {
+                    "label": "No one answers the emails"
+                },
+                "content": {
+                    "label": "I’ve been emailing regarding my issue multiple times and would only get an auto response. Even after waiting for days still no reply back nor did my problem get solved!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1503825940"
+                    },
+                    "name": {
+                        "label": "عبدالرحمن ناصر الحارثي"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-08T13:40:35-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.16"
+                },
+                "id": {
+                    "label": "12287551359"
+                },
+                "title": {
+                    "label": "شكراً جزيلاً"
+                },
+                "content": {
+                    "label": "شكرا لكم على مروركم الطيب",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id543594296"
+                    },
+                    "name": {
+                        "label": "Lionel Andrade"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-06T19:42:49-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "2.2.16"
+                },
+                "id": {
+                    "label": "12280258016"
+                },
+                "title": {
+                    "label": "Deactivation notice"
+                },
+                "content": {
+                    "label": "I got a  notification that account will be activated in 30 days ..  I say who cares ? I already deleted this app .. we need something like UPI payments system in uae.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id617554232"
+                    },
+                    "name": {
+                        "label": "Reju1234"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-05T09:26:55-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.15"
+                },
+                "id": {
+                    "label": "12274521244"
+                },
+                "title": {
+                    "label": "App is crashing"
+                },
+                "content": {
+                    "label": "Very bad , app is always crashing not able to add money or doing transactions.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1646507121"
+                    },
+                    "name": {
+                        "label": "Alfredajagarni"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-05T05:16:04-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.15"
+                },
+                "id": {
+                    "label": "12273661687"
+                },
+                "title": {
+                    "label": "App"
+                },
+                "content": {
+                    "label": "It’s not getting logged in",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id800921257"
+                    },
+                    "name": {
+                        "label": "Sandaruwan888"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-05T03:37:22-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.15"
+                },
+                "id": {
+                    "label": "12273345612"
+                },
+                "title": {
+                    "label": "Poor customer service"
+                },
+                "content": {
+                    "label": "I’m facing login problem…regarding that I send e mail, email reply writhing 3days they will reply and if I have emergency I need to contact customer care…after that I contact them…that who talk to me don’t know how to tolk customer…any way I spend to call them my SIM card credit…and I waste my time….they didn’t fix it",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1376643561"
+                    },
+                    "name": {
+                        "label": "txsgjkkitfvbfssxgkkr"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-05T02:58:12-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.15"
+                },
+                "id": {
+                    "label": "12273235471"
+                },
+                "title": {
+                    "label": "👎🏼"
+                },
+                "content": {
+                    "label": "My god this app is the worse but i have to use it because of my work , this app lagging too much and now i have trouble logging into my acc 👎🏼",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1734168652"
+                    },
+                    "name": {
+                        "label": "Solo leveling 11"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-04T01:27:34-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.14"
+                },
+                "id": {
+                    "label": "12269006858"
+                },
+                "title": {
+                    "label": "Not opening"
+                },
+                "content": {
+                    "label": "Not opening application",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id553892672"
+                    },
+                    "name": {
+                        "label": "Mohammed salih k"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-03T05:05:36-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.14"
+                },
+                "id": {
+                    "label": "12265583021"
+                },
+                "title": {
+                    "label": "disappointed with the lack of communication and support provided by your team."
+                },
+                "content": {
+                    "label": "I hope you are doing well. I deposited a cheque into my Payit account on January 27, and today, February 3, I discovered that the cheque was not accepted into my account. Since then, I have been calling and sending emails, but I have not received any proper updates or a clear status on the situation.\n\nI was informed that the cheque was returned to the UAQ Branch , but after that, I have not received any further updates, either through calls or emails. I am feeling very disappointed with the lack of communication and support provided by your team.\n\nCould you kindly assist me in understanding how I can retrieve my cheque as I urgently need it? Please provide a clear solution and timeframe.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id1751376235"
+                    },
+                    "name": {
+                        "label": "chakkuppa"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-02T23:21:08-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "2.2.14"
+                },
+                "id": {
+                    "label": "12264675724"
+                },
+                "title": {
+                    "label": "Review"
+                },
+                "content": {
+                    "label": "Awesome",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id350844596"
+                    },
+                    "name": {
+                        "label": "lulu799"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-01T20:42:15-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "2.2.14"
+                },
+                "id": {
+                    "label": "12260042398"
+                },
+                "title": {
+                    "label": "LG"
+                },
+                "content": {
+                    "label": "There is an error when lever i transfer money. The page stays at the transfer page and i have to exit the app and login again.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id840363430"
+                    },
+                    "name": {
+                        "label": "Qw3r7Y….."
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-02-01T14:49:02-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.14"
+                },
+                "id": {
+                    "label": "12259080583"
+                },
+                "title": {
+                    "label": "Too long to verified accoun"
+                },
+                "content": {
+                    "label": "Why it’s too long for verification of account?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ae/reviews/id249945456"
+                    },
+                    "name": {
+                        "label": "Dils888"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2025-01-28T12:29:39-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "2.2.14"
+                },
+                "id": {
+                    "label": "12242344925"
+                },
+                "title": {
+                    "label": "“Unable to Pay School Fees via Credit Card”"
+                },
+                "content": {
+                    "label": "I was informed by my kids’ school that we could make school fee payments via credit card through this app, but it’s been an absolute waste of time. I’ve emailed multiple times to the support email and called the help center. Today, I was finally told by a call center agent that credit cards cannot be added. Had they told me this from the start, I wouldn’t have wasted so much time following up with customer service.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ae/review?id=1291753848&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                }
+            }
+        ],
+        "updated": {
+            "label": "2025-04-14T05:27:01-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: Customer Reviews"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [
+            {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=ae&id=134771"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "self",
+                    "href": "https://itunes.apple.com/ae/rss/customerreviews/id=1291753848/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "first",
+                    "href": "https://itunes.apple.com/ae/rss/customerreviews/page=1/id=1291753848/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1291753848/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "last",
+                    "href": "https://itunes.apple.com/ae/rss/customerreviews/page=10/id=1291753848/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1291753848/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "previous",
+                    "href": "https://itunes.apple.com/ae/rss/customerreviews/page=1/id=1291753848/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1291753848/sortBy=mostRecent/json"
+                }
+            },
+            {
+                "attributes": {
+                    "rel": "next",
+                    "href": "https://itunes.apple.com/ae/rss/customerreviews/page=2/id=1291753848/sortby=mostrecent/xml?urlDesc=/customerreviews/id=1291753848/sortBy=mostRecent/json"
+                }
+            }
+        ],
+        "id": {
+            "label": "https://itunes.apple.com/ae/rss/customerreviews/id=1291753848/sortBy=mostRecent/json"
+        }
+    }
+}

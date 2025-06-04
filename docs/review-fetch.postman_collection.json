@@ -1,0 +1,139 @@
+{
+	"info": {
+		"_postman_id": "a59dc755-e217-48bb-97ff-30a9bc665365",
+		"name": "review-fetch",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "fetch",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9090/api/v1/review/fetch",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"api",
+						"v1",
+						"review",
+						"fetch"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "analyze",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9090/api/v1/review/analyze?product=DubaiFirst-IOS&fromDate=2025-01-25",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"api",
+						"v1",
+						"review",
+						"analyze"
+					],
+					"query": [
+						{
+							"key": "product",
+							"value": "DubaiFirst-IOS"
+						},
+						{
+							"key": "fromDate",
+							"value": "2025-01-25"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get-review",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9090/api/v1/review?product=DubaiFirst-ANDROID&fromDate=2025-04-01",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"api",
+						"v1",
+						"review"
+					],
+					"query": [
+						{
+							"key": "product",
+							"value": "DubaiFirst-ANDROID"
+						},
+						{
+							"key": "fromDate",
+							"value": "2025-04-01"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete-review",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9090/api/v1/review",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"api",
+						"v1",
+						"review"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
