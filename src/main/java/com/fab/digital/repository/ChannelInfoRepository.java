@@ -24,7 +24,7 @@ import software.amazon.awssdk.services.dynamodb.model.ScanRequest;
 @RequiredArgsConstructor
 public class ChannelInfoRepository {
 
-  private static final String TABLE_NAME = "ChannelInfo";
+  private static final String TABLE_NAME = "channel_info";
   private final DynamoDbClient dynamoDbClient;
 
   public List<ChannelInfo> findAll() {

@@ -1,15 +1,13 @@
 spring:
   application:
-    name: digital-service
-
+    name: review-fetch-service
+  cloud:
+    function:
+      definition: start
 app:
-  aws-dynamodb-accessKey: key
-  aws-dynamodb-secretKey: secretKey
-  aws-dynamodb-region: us-east-1
   itunes-review-api: https://itunes.apple.com/ae/rss/customerreviews/page={page_num}/id={app_id}/sortby=mostrecent/json
   android-token-api: https://accounts.google.com/o/oauth2/token
   android-review-api: https://www.googleapis.com/androidpublisher/v3/applications/{package_name}/reviews?access_token={access_token}&maxResults=100&translationLanguage=en
-
 
 
 

@@ -18,7 +18,7 @@ import software.amazon.awssdk.services.dynamodb.model.*;
 @Slf4j
 public class CustomerReviewRepository {
 
-  private static final String TABLE_NAME = "CustomerReview";
+  private static final String TABLE_NAME = "customer_review";
   private final DynamoDbClient dynamoDbClient;
 
   public Optional<CustomerReview> findCustomerReview(CustomerReview customerReview) {
@@ -39,12 +39,12 @@ public class CustomerReviewRepository {
   public List<CustomerReview> findBySearchCriteria(String product, String updatedTime) {
     Map<String, AttributeValue> expressionAttributeValues = new HashMap<>();
     expressionAttributeValues.put(":product", AttributeValue.builder().s(product).build());
-    expressionAttributeValues.put(":commentTS", AttributeValue.builder().s(updatedTime).build());
+    expressionAttributeValues.put(":comment_ts", AttributeValue.builder().s(updatedTime).build());
     QueryRequest queryRequest =
         QueryRequest.builder()
             .tableName(TABLE_NAME)
             .keyConditionExpression("product = :product")
-                .filterExpression("commentTS > :commentTS")
+                .filterExpression("comment_ts > :comment_ts")
             .expressionAttributeValues(expressionAttributeValues)
             .build();
     List<Map<String, AttributeValue>> items = dynamoDbClient.query(queryRequest).items();

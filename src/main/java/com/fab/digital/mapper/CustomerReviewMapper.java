@@ -15,8 +15,8 @@ public class CustomerReviewMapper {
         Map.entry("comment", AttributeValue.builder().s(customerReview.getComment()).build()),
         Map.entry("version", AttributeValue.builder().s(customerReview.getVersion()).build()),
         Map.entry("author", AttributeValue.builder().s(customerReview.getAuthor()).build()),
-        Map.entry("commentTS", AttributeValue.builder().s(customerReview.getCommentTS()).build()),
-        Map.entry("insertTS", AttributeValue.builder().s(customerReview.getInsertTS()).build()));
+        Map.entry("comment_time", AttributeValue.builder().s(customerReview.getCommentTime()).build()),
+        Map.entry("insert_time", AttributeValue.builder().s(customerReview.getInsertTime()).build()));
   }
 
   public static CustomerReview fromDynamoItem(Map<String, AttributeValue> item) {
@@ -27,8 +27,8 @@ public class CustomerReviewMapper {
         .comment(item.get("comment").s())
         .version(item.get("version").s())
         .author(item.get("author").s())
-        .commentTS(item.get("commentTS").s())
-        .insertTS(item.get("insertTS").s())
+        .commentTime(item.get("comment_time").s())
+        .insertTime(item.get("insert_time").s())
         .build();
   }
 }

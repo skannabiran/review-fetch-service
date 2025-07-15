@@ -14,6 +14,6 @@ public class CustomerReview {
   private String comment;
   private String version;
   private String author;
-  private String commentTS;
-  private String insertTS;
+  private String commentTime;
+  private String insertTime;
 }

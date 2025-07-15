@@ -3,6 +3,7 @@ package com.fab.digital.service;
 import static com.fab.digital.util.ApplicationUtil.formatErrorResponse;
 
 import com.fab.digital.config.ApplicationProperties;
+import com.fab.digital.entity.CustomerReview;
 import com.fab.digital.exception.ReviewAnalysisException;
 import com.fab.digital.model.itunes.ItunesResponse;
 import lombok.RequiredArgsConstructor;
@@ -11,6 +12,8 @@ import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClientResponseException;
 import org.springframework.web.client.RestTemplate;
+
+import java.util.List;
 
 @Service
 @RequiredArgsConstructor
@@ -32,9 +35,10 @@ public class ItunesService {
               applicationProperties.itunesReviewApi(),
               HttpMethod.GET,
               entity,
-              ItunesResponse.class,
+                  ItunesResponse.class,
               pageNum, appId);
       if (response.getStatusCode().is2xxSuccessful()) {
+//        log.info("itunes response::{}", response.getBody());
         return response.getBody();
       } else return null;
     } catch (Exception e) {

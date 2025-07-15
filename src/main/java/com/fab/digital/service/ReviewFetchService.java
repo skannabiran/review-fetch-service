@@ -2,6 +2,9 @@ package com.fab.digital.service;
 
 import com.fab.digital.entity.ChannelInfo;
 import com.fab.digital.entity.CustomerReview;
+import com.fab.digital.model.EventRequest;
+import com.fab.digital.model.EventResponse;
+import com.fab.digital.model.ServiceResponse;
 import com.fab.digital.model.android.AndroidResponse;
 import com.fab.digital.model.android.Comment;
 import com.fab.digital.model.android.LastModified;
@@ -20,7 +23,6 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -68,7 +70,7 @@ public class ReviewFetchService {
             log.info("Fetch review ended for channelInfo::{}", channelInfo);
           }
         });
-    return "Success";
+    return "success";
   }
 
   private void saveCustomerReview(CustomerReview customerReview) {
@@ -93,8 +95,8 @@ public class ReviewFetchService {
                     .rating(entry.getImRating().getLabel())
                     .version(entry.getImVersion().getLabel())
                     .author(entry.getAuthor().getName().getLabel())
-                    .commentTS(entry.getUpdated().getLabel())
-                    .insertTS(LocalDateTime.ofInstant(Instant.now(), ZoneOffset.UTC).toString())
+                    .commentTime(entry.getUpdated().getLabel())
+                    .insertTime(LocalDateTime.ofInstant(Instant.now(), ZoneOffset.UTC).toString())
                     .build())
         .toList();
   }
@@ -117,8 +119,8 @@ public class ReviewFetchService {
                       (StringUtils.isEmpty(comment.getUserComment().getAppVersionName())
                           ? ""
                           : comment.getUserComment().getAppVersionName()))
-                  .commentTS(getTimeStamp(comment.getUserComment().getLastModified()))
-                  .insertTS(LocalDateTime.ofInstant(Instant.now(), ZoneOffset.UTC).toString())
+                  .commentTime(getTimeStamp(comment.getUserComment().getLastModified()))
+                  .insertTime(LocalDateTime.ofInstant(Instant.now(), ZoneOffset.UTC).toString())
                   .build());
         }
       }
@@ -148,15 +150,6 @@ public class ReviewFetchService {
       return androidResponse.getTokenPagination().getNextPageToken();
     }
     return 0;
-  }
-
-  public List<CustomerReview> getReview(String appDetail, String fromDate) {
-    return customerReviewRepository.findBySearchCriteria(appDetail, fromDate);
-  }
-
-  public String deleteReview() {
-    customerReviewRepository.deleteAll();
-    return HttpStatus.OK.toString();
   }
 
   private String getTimeStamp(LastModified lastModified) {
