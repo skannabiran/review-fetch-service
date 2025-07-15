@@ -1,42 +1,17 @@
 package com.fab.digital.service;
 
-import static com.fab.digital.util.ApplicationUtil.formatErrorResponse;
-
 import com.fab.digital.config.ApplicationProperties;
-import com.fab.digital.exception.ReviewAnalysisException;
-import com.fab.digital.model.android.AndroidResponse;
-import com.fab.digital.model.android.ServiceAccount;
-import com.fasterxml.jackson.databind.DeserializationFeature;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import io.jsonwebtoken.Jwts;
-
-import java.io.IOException;
-import java.io.InputStream;
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.security.KeyFactory;
-import java.security.NoSuchAlgorithmException;
 import java.security.PrivateKey;
-import java.security.spec.InvalidKeySpecException;
-import java.security.spec.PKCS8EncodedKeySpec;
 import java.util.*;
-
-import io.jsonwebtoken.SignatureAlgorithm;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.json.JSONObject;
-import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
-import org.springframework.web.client.RestClientResponseException;
 import org.springframework.web.client.RestTemplate;
-import software.amazon.awssdk.regions.Region;
-import software.amazon.awssdk.services.secretsmanager.SecretsManagerClient;
-import software.amazon.awssdk.services.secretsmanager.model.GetSecretValueRequest;
-import software.amazon.awssdk.services.secretsmanager.model.GetSecretValueResponse;
 
 @Service
 @RequiredArgsConstructor
@@ -67,63 +42,19 @@ public class GoogleAuthService {
     }
 
     public String createJwtAssertion() {
-//        PrivateKey privateKey;
-        String serviceAccountFilePath = "dubai-first-poc-service-account.json";
-        ServiceAccount serviceAccount = getServiceAccountDetails(serviceAccountFilePath);
-      /*  try {
-      String key = getSecret();
-         *//*         String key =    Files.readString(
-              new ClassPathResource("private-key.pem").getFile().toPath(), Charset.defaultCharset());*//*
-            log.info("private key::{}", key);
-            String privateKeyPEM =
-                    key.replace("-----BEGIN PRIVATE KEY-----", "")
-                            .replaceAll(System.lineSeparator(), "")
-                            .replace("-----END PRIVATE KEY-----", "");
-            PKCS8EncodedKeySpec keySpec =
-                    new PKCS8EncodedKeySpec(Base64.getDecoder().decode(privateKeyPEM));
-
-            KeyFactory kf = KeyFactory.getInstance("RSA");
-            privateKey = kf.generatePrivate(keySpec);
-        } catch ( NoSuchAlgorithmException | InvalidKeySpecException e) {
-            log.error("Error occurred while parsing key::{}", e.getMessage());
-            throw new ReviewAnalysisException("ERROR_WHILE_PARSING_KEY", e.getMessage());
-        }*/
         return Jwts.builder()
                 .header()
-                .keyId(serviceAccount.getPrivateKeyId())
+                .keyId("2376a8bb205a6cd43624d70e682ee0615b7b3251") //private_key_id
                 .add("alg", "RS256")
                 .add("typ", "JWT")
                 .and()
-                .issuer(serviceAccount.getClientEmail())
+                .issuer("dubaifirstpoc@payit-site.iam.gserviceaccount.com") //client_email
                 .claim("scope", "https://www.googleapis.com/auth/androidpublisher")
-                .claim("aud", serviceAccount.getTokenUri())
+                .claim("aud", "https://oauth2.googleapis.com/token") //token_uri
                 .id(UUID.randomUUID().toString())
                 .issuedAt(new Date())
                 .expiration(new Date(System.currentTimeMillis() + 3600 * 1000))
                 .signWith(privateKey)
                 .compact();
     }
-
-    public ServiceAccount getServiceAccountDetails(String filePath) {
-        try {
-            ObjectMapper mapper =
-                    new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-            return mapper.readValue(new ClassPathResource(filePath).getFile(), ServiceAccount.class);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-    }
-
-  public String loadPrivateKey(){
-    ClassPathResource resource = new ClassPathResource("private-key.pem");
-    try (InputStream inputStream = resource.getInputStream()) {
-      return new String(inputStream.readAllBytes(), StandardCharsets.UTF_8);
-    } catch (IOException e) {
-      log.error("Error occurred while loading key::{}", e.getMessage());
-      throw new ReviewAnalysisException("ERROR_WHILE_LOADING_KEY", e.getMessage());
-    }
-  }
-
-
-
 }
